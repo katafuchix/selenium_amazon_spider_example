@@ -1,5 +1,8 @@
 # selenium_amazon_spider_example
 
+- Without Amazon API, spidering amazon items in amazon web site.
+- Python 3.x
+
 ### pip install
 ```
 $ pip install selenium
